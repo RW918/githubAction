@@ -1,0 +1,10 @@
+name: Test Workflow  
+
+
+# Task: Exercise Instructions for GitHub Actions
+# Create a simple GitHub Actions workflow that automatically runs a test script whenever code is pushed to the repository.
+# Use the actions/checkout and actions/setup-node actions to prepare the testing environment.
+# Run a custom test script.
+
+
+# Write Your code here
